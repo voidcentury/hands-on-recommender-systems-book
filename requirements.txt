@@ -1,0 +1,4 @@
+pandas==0.23.4
+numpy==1.15.1
+scikit-learn==0.19.2
+scikit-surprise==1.0.6
